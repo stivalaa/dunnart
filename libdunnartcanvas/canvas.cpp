@@ -23,6 +23,8 @@
  * Author(s): Michael Wybrow  <http://michael.wybrow.info/>
 */
 
+#include "libdunnartcanvas/gmlgraph.h"
+
 // Make sure that SIZE_MAX is available from the first includion of limits.h
 #define __STDC_LIMIT_MACROS
 
@@ -40,7 +42,6 @@
 #include "libdunnartcanvas/guideline.h"
 #include "libdunnartcanvas/connector.h"
 #include "libdunnartcanvas/canvasitem.h"
-#include "libdunnartcanvas/gmlgraph.h"
 #include "libdunnartcanvas/connectionpininfo.h"
 #include "libdunnartcanvas/pluginfileiofactory.h"
 

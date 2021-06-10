@@ -17,6 +17,10 @@ win32 {
 LIBS += -Wl,--export-all-symbols -Wl,--no-whole-archive -lpsapi
 }
 
+cygwin {
+LIBS += -lpsapi
+}
+
 # Input
 
 SOURCES += src/augmentation/DfsMakeBiconnected.cpp \
