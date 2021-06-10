@@ -27,3 +27,7 @@ diff
 #documentation
 doc/html
 doc/latex
+
+# Qt qmake temp files
+.qmake.cache
+.qmake.stash
