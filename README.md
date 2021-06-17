@@ -15,7 +15,7 @@ it at your own risk!
 
 Nightly alpha builds for Mac OS X, Linux and Windows can be found here:
 
- *  [http://www.csse.monash.edu.au/~mwybrow/dunnart/nightlies/][nightlies]
+ *  [https://ialab.it.monash.edu/~mwybrow/dunnart-nightlies/][nightlies]
 
 ### How to cite? ###
 
